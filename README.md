@@ -73,7 +73,6 @@ customer-churn-prediction/
 │   ├── pdp_logit.png              # Logistic partial dependence
 │   ├── pip_xgb.png                # XGBoost permutation importance
 │   ├── pdp_xgb.png                # XGBoost partial dependence (top 5)
-│   └── xgb_cv.png                 # Cross-validation tuning plot
 └── README.md
 ```
 
